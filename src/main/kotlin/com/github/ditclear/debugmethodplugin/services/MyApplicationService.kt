@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ditclear.debugmethodplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ditclear.debugmethodplugin.MyBundle
 
 class MyApplicationService {
 
